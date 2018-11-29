@@ -1,4 +1,4 @@
-let base_url = 'https://voteadminapi.youxiangtv.com/';
+let base_url = 'http://voteapi.molitianjie.com/';
 
 // if (process.env.MY_NODE_ENV === 'production') {
 //     /* 正式环境 */
@@ -14,6 +14,6 @@ let base_url = 'https://voteadminapi.youxiangtv.com/';
 // }
 
 export const BASE_URL = base_url;
-export const VISIT_URL = 'https://vote.youxiangtv.com/activity/';
+export const VISIT_URL = 'http://vote.molitianjie.com/activity/';
 export const IMAGE_URL = 'https://image.youxiangtv.com/';
 export const VIDEO_URL = 'https://video.youxiangtv.com/';
